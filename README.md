@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Todo App made with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Deployment
+
+The app is deployed on [GitHub Pages](https://eloicasamayor.github.io/todo-list/). 
 
 ## Available Scripts
 
